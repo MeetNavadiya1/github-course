@@ -6,7 +6,12 @@ function sayName(){
     console.log(name1);
 }
 
+<<<<<<< HEAD
 
 function newFn(){
     console.log("i am new");
+=======
+function isAbove18(){
+    return age>=18;
+>>>>>>> parent of f97b498 (remove 18 message)
 }
