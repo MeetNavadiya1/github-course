@@ -6,11 +6,15 @@ function sayName(){
     console.log(name1);
 }
 
-
 function newFn(){
     console.log("i am new");
 }
 
 function isAbove18(){
     return age>=18;
+}
+
+
+function newFeatureAdd(){
+    console.log("this is a new feature");
 }
